@@ -1365,7 +1365,7 @@ transform: scale(1.0);
 }
 
 .navbar-nav li a {
-	font-size: 13px;
+	font-size: 15px;
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	font-weight: 700;
@@ -9804,4 +9804,8 @@ footer hr {
 	width: 300px;
 	height: 300px;
 	padding:  10px;
+}
+
+.logo > img {
+	width: 150px !important;
 }
